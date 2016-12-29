@@ -1,0 +1,180 @@
+[ 2016-12-27T14:55:12+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:12+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:12+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:12+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:17+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:17+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:17+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:18+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:30+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:30+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:31+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:55:31+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:56:16+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:56:16+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:56:16+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:56:16+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:57:24+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:57:24+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T14:57:24+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T15:01:07+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T15:01:07+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T15:01:07+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/jquery.min.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T15:01:08+08:00 ] ::1 /YKT/thinkphp/index.php/Home/Article/index/id/style/post.js
+ERR: 1054:Unknown column 'style' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id<style ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T15:56:55+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T15:56:55+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T15:56:55+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:02:30+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:02:30+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:02:34+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:03:24+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:03:24+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:09:35+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:09:35+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:09:37+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:10:46+08:00 ] ::1 /BLOG/index.php/home/article
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id< ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T16:11:19+08:00 ] ::1 /BLOG/index.php/home/article/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id< ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T16:11:43+08:00 ] ::1 /BLOG/index.php/home/Article
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id< ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T16:12:46+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:12:46+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:13:01+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:13:01+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:13:03+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:13:41+08:00 ] ::1 /BLOG/index.php/home/Article
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `ykt_article` WHERE ( id< ) ORDER BY id desc LIMIT 1  
+
+[ 2016-12-27T16:43:05+08:00 ] ::1 /BLOG/index.php/home/cate
+ERR: XML标签语法错误
+
+[ 2016-12-27T16:44:27+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:44:27+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:44:27+08:00 ] ::1 /BLOG/index.php/home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:44:27+08:00 ] ::1 /BLOG/index.php/home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:46:42+08:00 ] ::1 /BLOG/index.php/home/cata
+ERR: 无法加载控制器:Cata
+
+[ 2016-12-27T16:47:07+08:00 ] ::1 /BLOG/index.php/Home/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2016-12-27T16:47:07+08:00 ] ::1 /BLOG/index.php/Home/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+

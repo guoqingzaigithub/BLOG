@@ -1,0 +1,18 @@
+[ 2016-12-19T09:27:59+08:00 ] ::1 /ykt/thinkphp/index.php/Admin/articicle
+ERR: 无法加载控制器:Articicle
+
+[ 2016-12-19T09:28:11+08:00 ] ::1 /ykt/thinkphp/index.php/Admin/article
+ERR: 非法操作:index
+
+[ 2016-12-19T09:28:28+08:00 ] ::1 /ykt/thinkphp/index.php/Admin/Article
+ERR: 非法操作:index
+
+[ 2016-12-19T09:28:41+08:00 ] ::1 /ykt/thinkphp/index.php/Admin/article
+ERR: 非法操作:index
+
+[ 2016-12-19T09:28:42+08:00 ] ::1 /ykt/thinkphp/index.php/Admin/articicle
+ERR: 无法加载控制器:Articicle
+
+[ 2016-12-19T22:28:01+08:00 ] ::1 /ykt/thinkphp/index.php/Admin/Article/index.html
+ERR: 非法操作:index
+

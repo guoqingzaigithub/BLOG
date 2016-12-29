@@ -1,0 +1,44 @@
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/simditor-1.0.5/styles/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/simditor-1.0.5/styles/simditor.css" />
+	<link rel="stylesheet" href="__PUBLIC__/assets/css/amazeuii.min.css"/>
+    <script type="text/javascript" src="__PUBLIC__/simditor-1.0.5/scripts/js/jquery.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/simditor-1.0.5/scripts/js/module.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/simditor-1.0.5/scripts/js/uploader.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/simditor-1.0.5/scripts/js/simditor.js"></script>
+  </head>
+
+  <body>
+<include file="Public/head" />
+  <form action="" method="post" enctype="multipart/form-data" >
+    <p><input type="text" name="title" placeholder="title" value=""  class="am-form-field am-round"></p>
+    <p><input type="text" name="auther" placeholder="auther" value=""  class="am-form-field am-round"></p>
+    <p><input type="text" name="summary" placeholder="summary" value=""  class="am-form-field am-round"></p>
+    <input type="file" id="pic" name="pic" size="50" value=""> 
+     <tr>
+                                <th><i class="require-red">*</i>所属栏目：</th>
+                                <td>
+                                  <select name="cateid" >
+                                      <option value="" >请选择分类</option>
+                                        <volist name="cateres" id="vo">
+                                            <option value="{$vo.id}" >{$vo.catename}</option>
+                                      </volist>
+                                  </select>
+                                </td>
+                            </tr>                      
+    <textarea id="editor" name="content" placeholder="这里输入内容" autofocus value="" class="am-form-field am-round"></textarea>
+    <div align="center">
+    <input type="submit" name="submit" value="发布文章" class="am-btn am-btn-primary">
+  </form>
+  </div>
+  </body>
+
+  <script type="text/javascript">
+    var editor = new Simditor({
+      textarea: $('#editor')
+    });
+  </script>
+
+</html>

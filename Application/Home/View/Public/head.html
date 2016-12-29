@@ -1,0 +1,43 @@
+<header class="am-topbar">
+  <h1 class="am-topbar-brand">
+    <a href="#">blog</a>
+  </h1>
+  
+
+  <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-success am-show-sm-only"
+          data-am-collapse="{target: '#doc-topbar-collapse'}"><span class="am-sr-only">导航切换</span> <span
+      class="am-icon-bars"></span></button>
+
+  <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
+    <ul class="am-nav am-nav-pills am-topbar-nav">
+      <li <if condition="$current eq $vo['id']"> class='am-active' </if>><a href="__MODULE__/index">首页</a></li>
+      
+    <volist name="cateres" id="vo">
+      <li <if condition="$current eq $vo['id']"> class='am-active' </if> ><a href="__MODULE__/Cate/index/id/{$vo.id}">{$vo.catename}</a></li>
+    </volist> 
+    <li><a href="__MODULE__/Article/add">写文章</a></li>
+    </ul>
+
+    <form class="am-topbar-form am-topbar-left am-form-inline am-topbar-right" role="search" action="__MODULE__/index/search" method="post" >
+      <div class="am-form-group">
+        <input type="text" class="am-form-field am-input-sm" name="title" value="{$title}" placeholder="搜索文章">
+      </div>
+      <button type="submit" class="am-btn am-btn-default am-btn-sm">搜索</button>
+    </form>
+    <!--
+     <h1 class="am-topbar-brand">
+    <a href="__MODULE__/User/login">登录</a>
+  </h1>
+   <h1 class="am-topbar-brand">
+    <a href="__MODULE__/User/register">注册</a>
+  </h1>
+  -->
+  <h1 class="am-topbar-brand">
+  您好<?php echo $_SESSION['username']; ?>
+  </h1>
+
+  <h1 class="am-topbar-brand">
+    <a href="__MODULE__/User/login">退出</a>
+  </h1>
+  </div>
+</header>
